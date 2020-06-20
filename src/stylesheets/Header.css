@@ -1,0 +1,13 @@
+.App_header{
+    margin-top: 10px;
+    text-align: center;
+}
+.header_img{
+    height: 50px;
+    width: 50px;
+    border: 1px solid #444444;
+    border-radius: 50%;
+}
+.header_title{
+    font-size: 1.2em;
+}
